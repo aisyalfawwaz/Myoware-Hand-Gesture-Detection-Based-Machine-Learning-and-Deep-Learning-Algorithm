@@ -1,5 +1,8 @@
 # Myoware Hand Gesture Detection Based Machine Learning and Deep Learning Algorithm
 
+
+![A0 (300 DPI) (1)](https://github.com/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm/assets/59833758/41b93375-11f5-4776-abf9-3245c307bb1f)
+
 This project aims to classify hand gestures based on the data collected by MyoWare sensors using Machine Learning and Deep Learning algorithms. The data has been preprocessed and visualized using Python libraries, and then fed into several models to evaluate their performance in classifying hand gestures.
 
 ## Requirements
@@ -38,6 +41,6 @@ The confusion matrix of each model is plotted to see the model's performance in 
 
 Overall, this project successfully classified hand gestures using Machine Learning and Deep Learning models with high accuracy, which has potential applications in the field of Human-Computer Interaction.
 
-![A0 (300 DPI) (1)](https://github.com/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm/assets/59833758/41b93375-11f5-4776-abf9-3245c307bb1f)
+
 
 
