@@ -38,5 +38,5 @@ The confusion matrix of each model is plotted to see the model's performance in 
 
 Overall, this project successfully classified hand gestures using Machine Learning and Deep Learning models with high accuracy, which has potential applications in the field of Human-Computer Interaction.
 
-![Poster](https://ibb.co/P4ZZFsy)
+![Poster](https://ibb.co/P4ZZFsy/)
 
