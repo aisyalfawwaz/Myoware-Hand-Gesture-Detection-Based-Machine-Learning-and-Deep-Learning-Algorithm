@@ -38,5 +38,6 @@ The confusion matrix of each model is plotted to see the model's performance in 
 
 Overall, this project successfully classified hand gestures using Machine Learning and Deep Learning models with high accuracy, which has potential applications in the field of Human-Computer Interaction.
 
-![Poster](https://i.ibb.co/Cv55mpy/A0-300-DPI-1.png)
+![A0 (300 DPI) (1)](https://github.com/aisyalfawwaz/Myoware-Hand-Gesture-Detection-Based-Machine-Learning-and-Deep-Learning-Algorithm/assets/59833758/41b93375-11f5-4776-abf9-3245c307bb1f)
+
 
